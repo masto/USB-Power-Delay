@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-08-18T03:29:10Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "PCB Layout - USB Power Delay R2.0 v75"
+        },
+        "Owner": "Christopher Masto <chris@masto.com>",
+        "Size": {
+            "X": 73.66,
+            "Y": 45.72
+        }
+    }
+}
